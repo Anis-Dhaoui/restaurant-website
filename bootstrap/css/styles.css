@@ -140,3 +140,20 @@ body{
       margin-left: 11px
   }
 }
+
+#btn-call > a{
+    font-size: 1.5em;
+    background-color: #f6b319;;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #fff;
+    display: block;
+    margin: 0 20px;
+    color: #61122f;
+}
+#xs-deliver{
+    margin-top: 5px;
+    font-size: .7em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
