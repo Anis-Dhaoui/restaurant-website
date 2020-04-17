@@ -88,6 +88,10 @@ body{
     clear: both;
     margin-top: -30px;
 }
+
+#nav-list a:active{
+    background-color: black;
+}
 /* END HEADER */
 
 /* HOME PAGE */
@@ -302,7 +306,7 @@ h3.menu-item-tile{
       font-size: 1em;
       margin-right: 5px;
   }
-  #nav-list :nth-child(3){
+  #nav-list :nth-child(4){
       margin-left: 11px
   }
 
